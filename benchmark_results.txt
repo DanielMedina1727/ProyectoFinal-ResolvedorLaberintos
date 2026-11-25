@@ -1,0 +1,15 @@
+=== Escenario: Pequeño (11x11) ===
+BFS:  Tiempo=0.0924 ms | Mem=5.82 KB | Nodos=45 | Longitud=33
+DFS:  Tiempo=0.0760 ms | Mem=6.08 KB | Nodos=35 | Longitud=33
+A*:   Tiempo=0.1115 ms | Mem=7.22 KB | Nodos=39 | Longitud=33
+
+=== Escenario: Mediano (25x25) ===
+BFS:  Tiempo=0.1530 ms | Mem=8.51 KB | Nodos=101 | Longitud=93
+DFS:  Tiempo=0.1865 ms | Mem=18.29 KB | Nodos=97 | Longitud=93
+A*:   Tiempo=0.2347 ms | Mem=23.49 KB | Nodos=97 | Longitud=93
+
+=== Escenario: Grande (51x51) ===
+BFS:  Tiempo=1.9664 ms | Mem=96.88 KB | Nodos=1154 | Longitud=709
+DFS:  Tiempo=1.5529 ms | Mem=128.80 KB | Nodos=931 | Longitud=709
+A*:   Tiempo=3.4298 ms | Mem=195.55 KB | Nodos=1059 | Longitud=709
+
